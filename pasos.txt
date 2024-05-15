@@ -1,0 +1,7 @@
+1.- npm i gh-pages
+
+2.- agregar propiedad en vue.config.js : publicPath: "/m6-s3-d8-ejemplos/"
+
+3.- agregr en script de package.json: "deploy": "gh-pages -d dist"
+
+
